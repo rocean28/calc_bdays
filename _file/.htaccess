@@ -1,0 +1,4 @@
+# ベーシック認証を無効にする
+Satisfy any
+Order allow,deny
+Allow from all
